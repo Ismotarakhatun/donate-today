@@ -210,6 +210,7 @@
 
 
 .lives-depen button {
+
     width: 230px;
     height: 56px;
     background: #df1ff1;
@@ -217,6 +218,17 @@
     border: 0;
     margin-top: 20px;
 }
+.lives-depen h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    color: #121212;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 
 .lives-content h1 {
     font-family: 'Inter';
